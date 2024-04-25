@@ -1,1 +1,1 @@
-a few scripts used to gather emails of local businesses from google maps 
+a few scripts used to find local businesses on google maps, find their contact details, and email them
